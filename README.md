@@ -25,3 +25,4 @@ A Java-based Student Grade Management System that allows users to manage student
 ## Author
 
 Leen
+This project was built as part of my Java learning journey
