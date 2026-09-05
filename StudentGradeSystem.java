@@ -171,7 +171,7 @@ public class StudentGradeSystem {
             }
         }
 
-        if(found != -1) {3
+        if(found != -1) {
             System.out.println("===== Student Report Card =====");
             System.out.println("Student ID: " + studentIDs[found]);
             System.out.println("Student Name: " + studentNames[found]);
